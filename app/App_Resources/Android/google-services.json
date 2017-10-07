@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "891351814315",
+    "firebase_url": "https://vistara-app.firebaseio.com",
+    "project_id": "vistara-app",
+    "storage_bucket": "vistara-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891351814315:android:cecde0eb4ef8e676",
+        "android_client_info": {
+          "package_name": "org.nativescript.vistaraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891351814315-ui70spkjl1h4p2qpt0m3r9p1ra24grlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTU41Vshh4LFk7Kawewv02IQ-Mk22EA-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
